@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ren",
+				"render_template"
+			],
+			[
+				"Su",
+				"SubmitField"
+			],
+			[
+				"Bool",
+				"BooleanField"
+			],
+			[
+				"Pa",
+				"PasswordField"
+			],
+			[
+				"pass",
+				"password_hash"
+			],
+			[
+				"favo",
+				"favorite_color"
+			],
+			[
+				"user",
+				"user_to_delete"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"table-",
+				"table-bordered"
+			],
+			[
+				"defa",
+				"default"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"t",
+				"center"
+			],
+			[
+				"he",
+				"max-height"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"backgrou",
+				"background-image\tproperty"
+			],
+			[
+				"al",
+				"align"
+			],
+			[
+				"im",
+				"img-thumbnail"
+			],
+			[
+				"webmd",
+				"WebMD_logo"
+			],
+			[
+				"img-",
+				"img-fluid"
+			],
+			[
+				"jp",
+				"jpeg"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"Doug",
+				"doug-trefun"
+			],
+			[
+				"my",
+				"my_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Doug Trefun/flasker/create_db.py",
+		"/C/Users/Doug Trefun/flasker/templates/404.html",
+		"/C/Users/Doug Trefun/flasker/templates/500.html",
+		"/C/Users/Doug Trefun/flasker/static/css/style.css",
+		"/C/Users/Doug Trefun/flasker/templates/name.html",
+		"/C/Users/Doug Trefun/flasker/static/js/myfile.js",
+		"/C/Users/Doug Trefun/flasker/templates/base.html",
+		"/C/Users/Doug Trefun/flasker/templates/user.html",
+		"/C/Users/Doug Trefun/flasker/templates/navbar.html",
+		"/C/Users/Doug Trefun/flasker/templates/index.html",
+		"/C/Users/Doug Trefun/flasker/.gitignore",
+		"/C/Users/Doug Trefun/myproject/templates/add_user.html",
+		"/C/Users/Doug Trefun/myproject/hello.py",
+		"/C/Users/Doug Trefun/myproject/static/js/myfile.js",
+		"/C/Users/Doug Trefun/myproject/static/css/style.css",
+		"/C/Users/Doug Trefun/myproject/migrations/env.py",
+		"/C/Users/Doug Trefun/myproject/templates/add_post.html",
+		"/C/Users/Doug Trefun/myproject/migrations/script.py.mako",
+		"/C/Users/Doug Trefun/myproject/migrations/alembic.ini",
+		"/C/Users/Doug Trefun/myproject/create_db.py",
+		"/C/Users/Doug Trefun/myproject/templates/posts.html",
+		"/C/Users/Doug Trefun/myproject/templates/name.html",
+		"/C/Users/Doug Trefun/myproject/templates/navbar.html",
+		"/C/Users/Doug Trefun/myproject/templates/404.html",
+		"/C/Users/Doug Trefun/myproject/templates/500.html",
+		"/C/Users/Doug Trefun/myproject/templates/update.html",
+		"/C/Users/Doug Trefun/myproject/templates/test_pw.html",
+		"/C/Users/Doug Trefun/myproject/templates/index.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/get_post.py",
+		"/C/Users/Doug Trefun/Desktop/mysite/index.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/login.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/survey.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/twitterbot.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/othercode.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/sabacc1.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/convfips.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/css/style1.css",
+		"/C/Users/Doug Trefun/Desktop/mysite/blog.html",
+		"/C/Users/Doug Trefun/Desktop/mysite/docs.html",
+		"/C/Users/Doug Trefun/Desktop/blog2/assets/scss/theme/_base.scss",
+		"/C/Users/Doug Trefun/Desktop/blog2/blog.html",
+		"/C/Users/Doug Trefun/Desktop/blog2/home1.html",
+		"/C/Users/Doug Trefun/Desktop/blog2/assets/images/profile1.jpg",
+		"/C/Users/Doug Trefun/Desktop/blog2/dabblet.js",
+		"/C/Users/Doug Trefun/Desktop/blog2/settings.json",
+		"/C/Users/Doug Trefun/Desktop/blog2/style1.css",
+		"/C/Users/Doug Trefun/Desktop/HTML Practice/Practice __ Edabit.html",
+		"/C/Users/Doug Trefun/Desktop/HTML Practice/index.html",
+		"/C/Users/Doug Trefun/Desktop/PVAC/css/custom.css",
+		"/C/Users/Doug Trefun/Desktop/PVAC/index.html",
+		"/C/Users/Doug Trefun/Desktop/Intro To Coding/money.html",
+		"/C/Users/Doug Trefun/Desktop/Intro To Coding/junabee.html",
+		"/C/Users/Doug Trefun/Desktop/Intro To Coding/introcoding.html",
+		"/C/Users/Doug Trefun/Desktop/Intro To Coding/styles.css",
+		"/C/Users/Doug Trefun/Desktop/startbootstrap-resume-gh-pages/index.html",
+		"/C/Users/Doug Trefun/Desktop/startbootstrap-resume-gh-pages/css/styles.css",
+		"/C/Users/Doug Trefun/Desktop/startbootstrap-resume-gh-pages/preview.html",
+		"/C/Users/Doug Trefun/Desktop/startbootstrap-resume-gh-pages/other.html",
+		"/C/code/djangoproject/static/images/prfile.jpg",
+		"/C/code/djangoproject/pages/namer.py",
+		"/C/code/djangoproject/pages/views.py",
+		"/C/code/djangoproject/pages/urls.py",
+		"/C/code/djangoproject/pages/templates/contact.html",
+		"/C/code/djangoproject/mysite/urls.py",
+		"/C/code/djangoproject/pages/templates/home.html",
+		"/C/code/djangoproject/pages/templates/about.html",
+		"/C/code/djangoproject/mysite/settings.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
